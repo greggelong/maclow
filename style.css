@@ -1,0 +1,16 @@
+html, body {
+  margin: 0;
+  padding: 0;
+  background: lightblue;
+  text-align: center;
+  
+}
+h1 {
+ color:blue; 
+}
+  
+canvas {
+  display: center;
+
+}
+ 
